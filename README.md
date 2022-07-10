@@ -1,9 +1,5 @@
-#  TITLE
-DESCRIPTION ...
-
-## 🧰 Example:
-```swift
-```
+#  Core Animation
+This repo, Contain study and my custom helper Core animaiton modifier
 
 ## ℹ️  GETTING STARTED
 ### PREREQUISITES 
@@ -14,7 +10,7 @@ DESCRIPTION ...
 1. Open your terminal in location that you want save the project.
 2. Clone the repo in this local.
 ```sh
-git clone https://github.com/PaoloProdossimoLopes/repository-template.git
+git clone https://github.com/PaoloProdossimoLopes/swift-core-animation-linkedin-course.git
 ```
 3. Open the file with extension .xcodeproj inside the folder project.
    
@@ -22,7 +18,6 @@ git clone https://github.com/PaoloProdossimoLopes/repository-template.git
 So that you can run the project follow this steps:
 1. Choose a simulator 
 2. Then click on the **COMMAND + R** keys or press the ▶︎ (icon at the top of the IDE).
-
 
 ## 📃 License:
 The MIT license was used in this project.
